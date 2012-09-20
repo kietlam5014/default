@@ -8,5 +8,4 @@
            remote="korg" />
            
   <project path="mysample" name="kietlam5014/sample-code" remote="github" revision="master" />
-
 </manifest>
